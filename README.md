@@ -23,3 +23,7 @@ Your app is ready to be deployed!
 
 Launches the application test runner.
 Run with the `--watch` flag (`npm test -- --watch`) to run in interactive watch mode.
+
+### BUGS
+
+[Bug in FF 79+ SharedArrayBuffer](https://github.com/ffmpegwasm/ffmpeg.wasm/issues/102) occorrono header "custom" altrimenti firefox non gradisce.
